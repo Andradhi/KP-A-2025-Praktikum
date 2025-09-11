@@ -13,6 +13,7 @@
 ## Tim Pengajar Praktikum
 
 👨‍🏫 Muhamad Nabil Fannani (Informatika - 2024) [Github](https://github.com/Nabil-Fan) 
+
 👨‍🏫 Andradhi Bondan Pamungkas (Informatika - 2024) [Github](https://github.com/) 
 
 ## Bahasa dan Peralatan
