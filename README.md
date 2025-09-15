@@ -4,7 +4,7 @@
 <img width="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=1060"></img>
 </p>
 
-<h3 align="center">Tahun Akademik 2024/2026</h3>
+<h3 align="center">Tahun Akademik 2025/2026</h3>
 
 [>> Kontrak Praktikum](kontrak.md)
 
