@@ -55,7 +55,14 @@ Fungsi ```return``` berfungsi untuk menghentikan sebuah fungsi, dalam kasus ini 
  */
 ```
 kode diatas tidak akan dijalankan oleh program. Cara menggunakanya dengan inialisasi ```//``` untuk single line atau menggunakan ```/*........*/``` untuk multi line.
-
+## Variabel dan Tipe Data
+Apa itu variabel ?
+Variabel adalah tempat menyimpan sebuah nilai. Sementara tipe data adalah jenis nilai yang akan tersimpan dalam variabel.
+contoh variabel
+```c
+  umur = 18 ; //variabel umur dengan nilai 18
+  nama = Andradhi ; //variabel nama dengan isi Andradhi
+```
 
 
 
