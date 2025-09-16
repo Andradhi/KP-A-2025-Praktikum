@@ -47,6 +47,15 @@ Untuk menggunakan fungsi ini, kita dapat menuliskan apa yang ingin kita cetak da
 return 0 ;
 ```
 Fungsi ```return``` berfungsi untuk menghentikan sebuah fungsi, dalam kasus ini fungsi ```return``` menghentikan fungsi ```main``` serta mengembalikan data ke pemanggil fungsi. Karena ```main``` adalah fungsi utama maka ```return``` akan menghentikan program. Angka `0` setelah fungsi ```return``` adalah sebuah konvensi standar yang menandakan keberhasilan program.
+```c
+// menambahkan library stdio.h
+/*
+  komentar dengan 2 atau lebih
+  baris
+ */
+```
+kode diatas tidak akan dijalankan oleh program. Cara menggunakanya dengan inialisasi ```//``` untuk single line atau menggunakan ```/*........*/``` untuk multi line.
+
 
 
 
