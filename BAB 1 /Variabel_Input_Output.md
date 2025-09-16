@@ -142,7 +142,7 @@ output dari program di atas akan sebagai berikut :
 Perkenalkan nama saya Andradhi Bondan dari kelas B semester 3 dan berumur 19
 ```
 ### Basic Input
-Input dalam bahasa C dapat menggunakan fungsi `scanf`, input adalah data atau instruksi yang dimasukkan ke dalam program oleh pengguna atau sumber eksternal,.
+Input dalam bahasa C dapat menggunakan fungsi `scanf`, input adalah data atau instruksi yang dimasukkan ke dalam program oleh pengguna.
 ```c
   scanf("%d", &angka) ;
   //.....///
@@ -157,7 +157,7 @@ int main(){
     char nama[32] ;
 
     printf("Masukan Nama : ");
-    scanf("%s", &nama) ;
+    scanf("%s", nama) ;
     printf("Masukan umur : ");
     scanf("%d", &umur) ;
     printf("Semester : ");
