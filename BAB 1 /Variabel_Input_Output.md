@@ -1,5 +1,5 @@
 # 1.1 - Pengantar (Program Sederhana, Variabel, dan Input/Output) 
-# contoh program sederhana
+contoh program sederhana
 ```c
 // menambahkan library stdio.h
 #include <stdio.h>
@@ -9,7 +9,7 @@ int main() {
   return 0;
 }
 ```
-#Bagaimana Memahami Program diatas ?
+Bagaimana Memahami Program diatas ?
 
 ```c
 #include <stdio.h>
@@ -33,6 +33,21 @@ Sebelum fungsi ```main``` terdapat inialisasi `int` yang menandakan return value
 > Notes :
 > Pembahasan mengenai ```function``` atau fungsi serta return value akan dibahas pada pertemuan mendatang.
 <br/>
+
+```c
+  printf("Hello World!");
+```
+Dalam bahasa C, fungsi ```printf()``` digunakan untuk mencetak keluaran yang diformat dalam banyak cara ke keluaran standar stdout. Pada umunya dicetak dalam format konsol.
+Untuk menggunakan fungsi ini, kita dapat menuliskan apa yang ingin kita cetak dalam parameter fungsi.
+> notes
+> Parameter merupakan variabel yang akan digunakan untuk menampung data
+<br/>
+
+```c
+return 0 ;
+```
+Fungsi ```return``` berfungsi untuk menghentikan sebuah fungsi, dalam kasus ini fungsi ```return``` menghentikan fungsi ```main``` serta mengembalikan data ke pemanggil fungsi. Karena ```main``` adalah fungsi utama maka ```return``` akan menghentikan program. Angka `0` setelah fungsi ```return``` adalah sebuah konvensi standar yang menandakan keberhasilan program.
+
 
 
 
