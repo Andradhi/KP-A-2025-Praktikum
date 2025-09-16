@@ -39,7 +39,7 @@ Sebelum fungsi ```main``` terdapat inialisasi `int` yang menandakan return value
 ```
 Dalam bahasa C, fungsi ```printf()``` digunakan untuk mencetak keluaran yang diformat dalam banyak cara ke keluaran standar stdout. Pada umunya dicetak dalam format konsol.
 Untuk menggunakan fungsi ini, kita dapat menuliskan apa yang ingin kita cetak dalam parameter fungsi.
-> notes
+> notes : 
 > Parameter merupakan variabel yang akan digunakan untuk menampung data
 <br/>
 
